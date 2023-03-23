@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "km8vODJbSFqcItKU9nn0L98zIrnasr6OKgzVijntauldyAcgsMnOK0MSY022rXtw59+oadXwSkxXuXplvmUVAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zach Yazzie\\source\\repos\\OOP Network Pinger\\Pinger\\Pinger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zach Yazzie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Zach Yazzie\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Zach Yazzie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Zach Yazzie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
